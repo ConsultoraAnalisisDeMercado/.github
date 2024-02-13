@@ -3,8 +3,8 @@
 ------
 # Bievenidos a nuestra organización😁!
 -------
-Su creación fue con el propósito de presentar nuestro proyecto final de graduación de Ciencia de Datos en [Soy Henry](https://www.soyhenry.com/carrera-data-science) 🚀💛. 
-En esta organización estaremos cumpliendo un rol de científico de datos. Puedes ver nuestro proyecto haciendo clic [aquí](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_MID)
+Su creación fue con el propósito de presentar nuestro proyecto final, de graduación, de Ciencia de Datos en [Soy Henry](https://www.soyhenry.com/carrera-data-science) 🚀💛. 
+En esta organización estaremos cumpliendo un rol de científico de datos. Podés ver nuestro proyecto haciendo clic [acá](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_MID)
 
 ## Integrantes
 
