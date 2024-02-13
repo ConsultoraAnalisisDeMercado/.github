@@ -1,4 +1,4 @@
-![gif_banner_organization](src/banner_repo_de_bienvenida.gif)
+[![gif_banner_organization](src/banner_repo_de_bienvenida.gif)](https://github.com/ConsultoraAnalisisDeMercado/.github/blob/main/profile/src/banner_repo_de_bienvenida.gif)
 
 ------
 # Welcome to our organization😁!
