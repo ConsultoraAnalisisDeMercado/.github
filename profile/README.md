@@ -1,4 +1,4 @@
-![banner_repo_de_bienvenida](https://github.com/ConsultoraAnalisisDeMercado/.github/assets/90930270/9d3d070f-dc62-48d1-a85c-10ed7862a429)
+![banner_repo_de_bienvenida](profile/src/banner_repo_de_bienvenida.gif)
 
 ------
 # Welcome to our organization😁!
