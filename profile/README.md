@@ -1,12 +1,10 @@
-## Hi there 👋
+![gif_banner_organization](src/banner_repo_de_bienvenida.gif)
 
-<!--
+------
+# Welcome to our organization😁!
+-------
+It's creation was for the purpose of presenting our final Data Science graduation project at [Soy Henry](https://www.soyhenry.com/carrera-data-science) 🚀💛. We introduce ourselves, we are:
 
-**Here are some ideas to get you started:**
+[Gerardo Carrizo](https://github.com/Gerardgfc) |  [Jairo Díaz](https://github.com/jadiazpe) | [Mateo Lopez](https://github.com/luifa04) | [Micaela Callahuanca](https://github.com/MicaelaCallahuanca) | [Santiago Rueda](https://github.com/santiagrueda)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+In this organization we will be fulfilling a data scientist role. You can see our project by clicking [here](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_MID)
